@@ -11,5 +11,8 @@
   "license": "ISC",
   "engines": {
     "node": "8.11.1"
+  },
+  "dependencies": {
+    "pg": "7.4.3"
   }
 }
